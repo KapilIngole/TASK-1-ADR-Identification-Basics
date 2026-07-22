@@ -1,5 +1,7 @@
 # TASK-1-ADR-Identification-Basics
 ADR Identification Basics Task - Pharmacovigilance Internship
+# Task ID
+task1
 # Objective 
 Analyze the patient case to determine whether the observed symptoms represent an Adverse Drug Reaction (ADR) and identify the suspected drug.
 # Patient Information
